@@ -25,4 +25,4 @@ for search_result in search_results:
     if title:
         print(title.text)
 
-# browser.quit()
+browser.quit()
